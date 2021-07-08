@@ -1,0 +1,4 @@
+gpiozero==1.6.2
+rpi.gpio
+azure-iot-device~=2.7.0
+asyncio
